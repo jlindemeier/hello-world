@@ -6,7 +6,9 @@ Erster Versuch mit Git..
 ### Update files:
 
 git add README.md
+
 git commit -m ".. comment .."
+
 git push -u origin master
 
 
