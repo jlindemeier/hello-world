@@ -3,7 +3,12 @@
 Erster Versuch mit Git..
 
 
-### Update files:
+### url
+
+https://github.com/jlindemeier/hello-world
+
+
+### update files:
 
 git add README.md
 
@@ -12,7 +17,7 @@ git commit -m ".. comment .."
 git push -u origin master
 
 
-### License
+### license
 
 Copyright (c) 2013 Jörg Lindemeier
 
