@@ -12,7 +12,7 @@ git commit -m ".. comment .."
 git push -u origin master
 
 
-## License
+### License
 
 Copyright (c) 2013 Jörg Lindemeier
 
