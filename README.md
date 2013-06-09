@@ -19,5 +19,5 @@ git push -u origin master
 
 ### license
 
-Copyright (c) 2013 Jörg Lindemeier
+Copyright (c) 2013 Joerg Lindemeier
 
