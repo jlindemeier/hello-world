@@ -2,6 +2,8 @@
 
 Erster Versuch mit Git..
 
+Version 0.0.1
+
 
 ### url
 

@@ -1,0 +1,48 @@
+extends x_layout
+
+block content
+  ul#menubar
+    li.ui-state-disabled: a(href="#") #{title} &nbsp; #{version}
+    li
+      a(href="#") Datei
+      ul
+        li: a(href="#") Neu
+        li: a(href="#") Öffnen
+        li: a(href="#") Schließen
+    li
+      a(href="#") Bearbeiten
+      ul
+        li: a(href="#") Ausschneiden
+        li: a(href="#") Kopieren
+        li: a(href="#") Einfügen
+        li: a(href="#") Löschen
+    li
+      a(href="#") Suchen
+      ul
+        li: a(href="#") Suchen
+        li: a(href="#") Ersetzen
+        li: a(href="#") Gehe zu
+    li
+      a(href="#") Einstellungen
+      ul
+        li
+          a(href="#") Sprache
+          ul
+            li: a(href="#") Deutsch
+            li: a(href="#") Englisch
+            li: a(href="#") Spanisch
+        li.ui-state-disabled
+          a(href="#") Vollbild
+        li
+          a(href="#") Symbolleisten
+          ul
+            li: a(href="#") Menü
+            li: a(href="#") Navigation
+            li: a(href="#") Lesezeichen
+    li
+      a(href="#") Hilfe
+      ul
+        li: a(href="#") Inhalt
+        li: a(href="#") Info
+
+
